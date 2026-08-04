@@ -28,9 +28,12 @@ and the commands/tools involved — so it's useful without spoiling the challeng
 
 ## Progress
 
+## Progress
+
 | Level | Topic | Writeup |
 |-------|-------|---------|
 | 0 → 1 | SSH basics | [View](levels/level00-01.md) |
+| 1 → 2 | Handling filenames with special characters | [View](levels/level01-02.md) |
 
 
 ## Useful Commands / Notes
