@@ -30,7 +30,8 @@ and the commands/tools involved — so it's useful without spoiling the challeng
 
 | Level | Topic | Writeup |
 |-------|-------|---------|
-| 0 → 1 | SSH basics | _in progress_ |
+| 0 → 1 | SSH basics | [View](levels/level00-01.md) |
+
 
 ## Useful Commands / Notes
 
